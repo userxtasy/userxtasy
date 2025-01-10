@@ -1,6 +1,7 @@
 <p align="center">
   the only dangerous majority is the rich 
 </p>
+
                                                 __                                      
                                                /\ \__                                   
                                           __  _\ \ ,_\    __      ____  __  __    ____  
