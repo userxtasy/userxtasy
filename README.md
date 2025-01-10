@@ -12,5 +12,5 @@
                                             ..    .- --    .-    --. --- -..                                     
                             ..    -. . . -..    - ---    -... .    -.. . ... - .-. --- -.-- . -..
                         
-                            [help me work faster by buying me a coffee](https://buymeacoffee.com/xtasys)
- 
+  <p> style="text-align:center;">[help me work faster by buying me a coffee](https://buymeacoffee.com/xtasys)<p>
+
