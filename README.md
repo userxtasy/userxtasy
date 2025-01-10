@@ -31,6 +31,7 @@
     <i>Help me work faster by buying me a coffee</i>
     <br>
     <a href="https://buymeacoffee.com/xtasys">🦇 Buy Me A Coffee</a> 
+    log in & lock in 
   </sup>
 </samp>
 </p>
