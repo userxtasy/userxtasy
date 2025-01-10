@@ -18,7 +18,16 @@
 
 
 
+<p align="center">
+<samp>
+  <sup>
+    <b>
+    <i>Help me work faster by buying me a coffee</i>
+    <br>
+    <a href="https://buymeacoffee.com/xtasys">☕ Buy Me A Coffee</a> 
+  </sup>
+</samp>
+</p>
   
-  [help me work faster by buying me a coffee](https://buymeacoffee.com/xtasys)
   
   
