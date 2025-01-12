@@ -30,7 +30,7 @@
     <b>
     <i>Help me work faster by buying me a coffee</i>
     <br>
-      <p>🦇</p><a href="https://buymeacoffee.com/xtasys">Buy Me A Coffee</a><br>
+    <a href="https://buymeacoffee.com/xtasys">Buy Me A Coffee</a><br>
     log in & lock in 
   </sup>
 </samp>
