@@ -1,6 +1,6 @@
 <p align="center">
 <samp>
-  # -- the only dangerous minority is the rich -- # 
+  # -- TODMITR -- # 
 </samp>
 </p>
 
